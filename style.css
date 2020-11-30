@@ -64,6 +64,7 @@ hr{
 
 .navigation .nav-pills {
     text-align: right;
+    text-align-last: auto;
 }
 
 .navigation .link {
