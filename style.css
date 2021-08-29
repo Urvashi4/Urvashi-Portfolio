@@ -156,3 +156,6 @@ hr{
     padding: 1rem;
 }
 
+html {
+    scroll-behavior: smooth;
+}
